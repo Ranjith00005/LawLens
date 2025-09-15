@@ -1,0 +1,13 @@
+
+
+Start Backend:
+cd /Users/rr/Desktop/LawLens/backend
+source ../venv_new/bin/activate
+uvicorn hybrid_main:app --host 0.0.0.0 --port 9001 --reload
+
+Start Frontend:
+cd /Users/rr/Desktop/LawLens/frontend
+source ../venv_new/bin/activate
+streamlit run app.py
+
+
