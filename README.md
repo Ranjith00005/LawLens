@@ -26,7 +26,7 @@ An AI-powered legal research assistant that provides legal advisory, case outcom
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/LawLens.git
+git clone https://github.com/Ranjith00005/LawLens.git
 cd LawLens
 ```
 
